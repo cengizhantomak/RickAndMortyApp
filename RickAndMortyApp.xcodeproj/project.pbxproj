@@ -76,6 +76,7 @@
 				47166FC229FEFE0B00363ABC /* Model */,
 				474844A92A00298800C095D8 /* Apps */,
 				474844AA2A002A1E00C095D8 /* View */,
+				4700A6FA29FA69A200661B7A /* Info.plist */,
 			);
 			path = RickAndMortyApp;
 			sourceTree = "<group>";
@@ -113,7 +114,6 @@
 				4700A6EC29FA69A100661B7A /* AppDelegate.swift */,
 				4700A6EE29FA69A100661B7A /* SceneDelegate.swift */,
 				4700A6F529FA69A200661B7A /* Assets.xcassets */,
-				4700A6FA29FA69A200661B7A /* Info.plist */,
 			);
 			path = Apps;
 			sourceTree = "<group>";
